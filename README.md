@@ -1,5 +1,6 @@
-### Hi there 👋
-## Technologies Used
+### Hi there, I'm a Retired Chef Turned Software Engineer
+
+## Technologies I Use
 
 ![Technologies Used](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css)
 
