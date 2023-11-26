@@ -1,16 +1,19 @@
 ### Hi there 👋
+## Technologies Used
 
-<!--
-**shanestanley33/shanestanley33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Technologies Used](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css)
 
-Here are some ideas to get you started:
+| Code       |          |
+| ---------- | -------- |
+| React      | Node     |
+| JavaScript | Express  |
+| HTML5      | MongoDB  |
+| Mongoose   | CSS3     |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on G.E.C.K. | A library of current vertical farming tutorials for an extensive list of different foods.
+## 🌱 I’m currently learning React.js, random forest, NUM.PY, Tensorflow
+## 👯 I’m looking to collaborate on improving G.E.C.K.
+## 🤔 I’m looking for help with TensorFlow
+## 💬 Ask me about Cooking
+## 📫 How to reach me: Hit Me up on LinkedIn
+## ⚡ Fun fact: I've worked 14 years in the restaurant industry
